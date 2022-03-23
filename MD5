@@ -1,0 +1,12 @@
+4332488695f0df962b86d3fbefa68e36 *DESCRIPTION
+71763041a3bdc8bc28cefc0dfd65195f *NAMESPACE
+0273047f5a2cf289044ec643354141bb *R/internals.R
+ed91a8d0815f33a1d3513978e56fd6d9 *R/ploidy_inference.R
+16cfa3a5d1ec4eaf4f83264678a77ba0 *README.md
+ca035a2c7f7e5e7d08bb86b5bb1eb91a *man/internals.Rd
+b1d5745c3f4e87a7818badc2c48df034 *man/ploidy.inference.Rd
+49ef6dbeb9315b9b6593e5dbd4b45479 *src/tf.h
+ff9aafae73a87d4972157587f4e0f42a *src/tf_dp.c
+0ef4960217c0858ee641bb7b8565ac10 *src/tf_dp_wrapper.c
+7ed413dae86cef680266d4bd6215678e *tests/testthat.R
+3c2697b12e86fbb6c916674a662e27d9 *tests/testthat/test-ploidy_inference.R
